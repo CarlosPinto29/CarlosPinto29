@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Carlos Pinto</h1>
+<h1 align="center">👋 Hola, soy Carlos Elias Pinto</h1>
 <h3 align="center">Desarrollador Backend Java | Spring Boot | APIs REST | Docker</h3>
 
 <p align="center">
