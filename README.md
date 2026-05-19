@@ -97,15 +97,6 @@ Dashboard CMS personalizado con autenticación JWT.
 
 ---
 
-## ⚡ Estadísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🚀 Objetivo Profesional
 
 Seguir creciendo como desarrollador backend, participando en proyectos desafiantes, construyendo soluciones escalables y fortaleciendo mis conocimientos en arquitectura de software, cloud y buenas prácticas de desarrollo.
