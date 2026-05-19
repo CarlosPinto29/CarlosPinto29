@@ -1,70 +1,111 @@
-<img alt="bannerLinkedIn" src="https://media.licdn.com/dms/image/v2/D4E16AQEc83cviMimgQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690304403162?e=1775692800&v=beta&t=b7euMg4wdrb7Ab__dFK0r9nSQC5uLfpsNMpVvMfPdcg" />
-
-
-<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFF7ED&background=000000&center=true&vCenter=true&width=1100&lines=Hello+world%2C+I'm+a+developer+%3C3" alt="Typing SVG" /></a></div>
-<p> I'm a curious student who loves learning new things, motivating people, and working in teams...</p>
-
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathySagredo&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" />
-<p> For now, I'm reinforcing my knowledge by creating explanatory repositories on some technologies... </p>
-<p> Me considero una persona honesta. La verdad, no domino el inglés, pero estudio cada día. Si quieres ver mi trabajo, te invito a revisar algunos de mis pequeños proyectos educativos. </p>
-</div>
-<br>
-
-### <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![react](https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![nodedotjs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Database
-
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Others
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![jirasoftware](https://img.shields.io/badge/jira_software-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<br>
-
-<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFF7ED&background=000000&center=true&vCenter=true&width=1100&lines=Goodbye+world%2C+Contact+me+%3C3" alt="Typing SVG" /></a></div>
+<h1 align="center">Hi 👋, I'm Carlos Pinto</h1>
+<h3 align="center">Backend Java Developer | Spring Boot | REST APIs | Docker</h3>
 
 <p align="center">
-<a href= "https://www.linkedin.com/in/kathysagredojimenez/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href= "https://app.daily.dev/kats"><img src="https://img.shields.io/badge/dailydotdev-%23CE3DF3.svg?style=plastic&logo=dailydotdev&logoColor=violet"/></a>
+Passionate about backend development, scalable APIs, clean architecture, and continuous learning.
 </p>
 
+---
 
+## 🚀 About Me
 
+💻 Backend Developer focused on building robust and secure applications using Java & Spring Boot.  
+🔐 Experience implementing authentication and authorization with Spring Security & JWT.  
+🐳 Familiar with Docker, REST APIs, relational databases, and collaborative development with Git/GitHub.  
+☁️ Currently learning Kubernetes, AWS, and CI/CD practices.  
+📚 Always improving my software engineering skills and best practices.
 
+---
 
+## 🛠️ Tech Stack
 
+### 👨‍💻 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
+### ⚙️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
+### 🌐 Frontend (Basic Knowledge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+---
 
+## 📌 Featured Projects
 
+### 📦 Inventory Management System
+RESTful API for stock and inventory management.
 
+- Java + Spring Boot
+- Spring Security + JWT
+- MySQL
+- Docker
 
-<!--
-**kathySagredo/kathySagredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🍽️ Restaurant POS System
+Backend and mobile-oriented solution for restaurant operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js + Express
+- PostgreSQL
+- React
+- Role-based authentication
+
+---
+
+### 📰 CMS & Landing Page
+Custom CMS dashboard with JWT authentication.
+
+- Laravel 8
+- MySQL
+- JWT Authentication
+
+---
+
+## 📈 Currently Learning
+
+- ☁️ AWS Cloud
+- ⚙️ CI/CD Pipelines
+- ☸️ Kubernetes
+- 🧪 Advanced Testing Practices
+
+---
+
+## 🎓 Certifications
+
+📜 Java University - From Zero to Expert  
+🔗 https://www.udemy.com/certificate/UC-380d6283-9206-4aee-b84c-8ab078e4bdb8/
+
+---
+
+## 📫 Contact Me
+
+📧 Email: carloseliaspinto@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/carlos-elias-pinto-torres/  
+📱 WhatsApp: +56 983368449
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+⭐ “Building solutions, improving every day, and growing as a software developer.”
+</p>
