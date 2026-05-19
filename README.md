@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Carlos Pinto</h1>
-<h3 align="center">Backend Java Developer | Spring Boot | REST APIs | Docker</h3>
+<h1 align="center">👋 Hola, soy Carlos Pinto</h1>
+<h3 align="center">Desarrollador Backend Java | Spring Boot | APIs REST | Docker</h3>
 
 <p align="center">
-Passionate about backend development, scalable APIs, clean architecture, and continuous learning.
+Apasionado por el desarrollo backend, las buenas prácticas y el aprendizaje continuo 🚀
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-💻 Backend Developer focused on building robust and secure applications using Java & Spring Boot.  
-🔐 Experience implementing authentication and authorization with Spring Security & JWT.  
-🐳 Familiar with Docker, REST APIs, relational databases, and collaborative development with Git/GitHub.  
-☁️ Currently learning Kubernetes, AWS, and CI/CD practices.  
-📚 Always improving my software engineering skills and best practices.
+💻 Desarrollador Backend Jr. enfocado en construir aplicaciones robustas y escalables utilizando Java y Spring Boot.  
+🔐 Experiencia implementando autenticación y autorización con Spring Security y JWT.  
+🐳 Familiarizado con Docker, APIs REST, bases de datos relacionales y trabajo colaborativo con Git/GitHub.  
+☁️ Actualmente aprendiendo Kubernetes, AWS y prácticas CI/CD.  
+📚 Siempre buscando mejorar mis habilidades como desarrollador de software.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
 ### 👨‍💻 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -25,27 +25,27 @@ Passionate about backend development, scalable APIs, clean architecture, and con
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### 🗄️ Databases
+### 🗄️ Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Tools & DevOps
+### ⚙️ Herramientas & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### 🌐 Frontend (Basic Knowledge)
+### 🌐 Frontend (Nivel Básico)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Proyectos Destacados
 
-### 📦 Inventory Management System
-RESTful API for stock and inventory management.
+### 📦 Sistema de Gestión de Inventarios
+API RESTful para gestión de stock e inventario.
 
 - Java + Spring Boot
 - Spring Security + JWT
@@ -54,18 +54,18 @@ RESTful API for stock and inventory management.
 
 ---
 
-### 🍽️ Restaurant POS System
-Backend and mobile-oriented solution for restaurant operations.
+### 🍽️ Sistema POS para Restaurante
+Solución backend y móvil orientada a operaciones de restaurante.
 
 - Node.js + Express
 - PostgreSQL
 - React
-- Role-based authentication
+- Autenticación basada en roles
 
 ---
 
 ### 📰 CMS & Landing Page
-Custom CMS dashboard with JWT authentication.
+Dashboard CMS personalizado con autenticación JWT.
 
 - Laravel 8
 - MySQL
@@ -73,23 +73,23 @@ Custom CMS dashboard with JWT authentication.
 
 ---
 
-## 📈 Currently Learning
+## 📈 Actualmente Aprendiendo
 
 - ☁️ AWS Cloud
-- ⚙️ CI/CD Pipelines
+- ⚙️ CI/CD
 - ☸️ Kubernetes
-- 🧪 Advanced Testing Practices
+- 🧪 Testing avanzado
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certificaciones
 
-📜 Java University - From Zero to Expert  
+📜 Universidad Java - De Cero a Experto  
 🔗 https://www.udemy.com/certificate/UC-380d6283-9206-4aee-b84c-8ab078e4bdb8/
 
 ---
 
-## 📫 Contact Me
+## 📫 Contacto
 
 📧 Email: carloseliaspinto@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/carlos-elias-pinto-torres/  
@@ -97,7 +97,7 @@ Custom CMS dashboard with JWT authentication.
 
 ---
 
-## ⚡ GitHub Stats
+## ⚡ Estadísticas GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
@@ -106,6 +106,12 @@ Custom CMS dashboard with JWT authentication.
 
 ---
 
+## 🚀 Objetivo Profesional
+
+Seguir creciendo como desarrollador backend, participando en proyectos desafiantes, construyendo soluciones escalables y fortaleciendo mis conocimientos en arquitectura de software, cloud y buenas prácticas de desarrollo.
+
+---
+
 <p align="center">
-⭐ “Building solutions, improving every day, and growing as a software developer.”
+⭐ “Construyendo soluciones, aprendiendo cada día y creciendo como desarrollador.”
 </p>
